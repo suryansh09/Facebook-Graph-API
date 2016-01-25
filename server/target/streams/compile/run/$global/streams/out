@@ -1,0 +1,77 @@
+[0m[[0minfo[0m] [0mRunning main.scala.FacebookMain [0m
+[0m[[0minfo[0m] [0m[INFO] [12/18/2015 02:52:12.476] [main] [Remoting] Starting remoting[0m
+[0m[[0minfo[0m] [0m[INFO] [12/18/2015 02:52:12.657] [main] [Remoting] Remoting started; listening on addresses :[akka.tcp://HTTPServer@127.0.1.1:5014][0m
+[0m[[0minfo[0m] [0m[INFO] [12/18/2015 02:52:13.342] [HTTPServer-akka.actor.default-dispatcher-3] [akka://HTTPServer/user/IO-HTTP/listener-0] Bound to /127.0.0.1:8000[0m
+[0m[[0minfo[0m] [0mRegistering user:user8[0m
+[0m[[0minfo[0m] [0mRegistering user:user7[0m
+[0m[[0minfo[0m] [0mRegistering user:user2[0m
+[0m[[0minfo[0m] [0mRegistering user:user5[0m
+[0m[[0minfo[0m] [0mRegistering user:user1[0m
+[0m[[0minfo[0m] [0mRegistering user:user3[0m
+[0m[[0minfo[0m] [0mRegistering user:user0[0m
+[0m[[0minfo[0m] [0mRegistering user:user6[0m
+[0m[[0minfo[0m] [0mRegistering user:user9[0m
+[0m[[0minfo[0m] [0mRegistering user:user4[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user8[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user1[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user2[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user3[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user6[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user9[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user4[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user0[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user7[0m
+[0m[[0minfo[0m] [0mRetrieving Public Keys for:user5[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user1[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user8[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user9[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user7[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user4[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user6[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user3[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user0[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user5[0m
+[0m[[0minfo[0m] [0mRetrieving FriendList for:user2[0m
+[0m[[0minfo[0m] [0mCreating Page by:user1[0m
+[0m[[0minfo[0m] [0mCreating Page by:user7[0m
+[0m[[0minfo[0m] [0mCreating Page by:user2[0m
+[0m[[0minfo[0m] [0mCreating Page by:user9[0m
+[0m[[0minfo[0m] [0mCreating Page by:user0[0m
+[0m[[0minfo[0m] [0mCreating Page by:user3[0m
+[0m[[0minfo[0m] [0mCreating Page by:user8[0m
+[0m[[0minfo[0m] [0mCreating Page by:user4[0m
+[0m[[0minfo[0m] [0mCreating Page by:user6[0m
+[0m[[0minfo[0m] [0mCreating Page by:user5[0m
+[0m[[0minfo[0m] [0mCreating Album by:user5[0m
+[0m[[0minfo[0m] [0mCreating Album by:user9[0m
+[0m[[0minfo[0m] [0mCreating Album by:user1[0m
+[0m[[0minfo[0m] [0mCreating Album by:user0[0m
+[0m[[0minfo[0m] [0mCreating Album by:user7[0m
+[0m[[0minfo[0m] [0mCreating Album by:user2[0m
+[0m[[0minfo[0m] [0mCreating Album by:user8[0m
+[0m[[0minfo[0m] [0mCreating Album by:user6[0m
+[0m[[0minfo[0m] [0mCreating Album by:user3[0m
+[0m[[0minfo[0m] [0mCreating Album by:user4[0m
+[0m[[0minfo[0m] [0mPosting on Page from:user0[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user4[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user5[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user0[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user9[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user6[0m
+[0m[[0minfo[0m] [0mPosting on Profile from:user0[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user1[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user9[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user3[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user0[0m
+[0m[[0minfo[0m] [0mRetrieving post for user :user2[0m
+[0m[[0minfo[0m] [0mUploading pictures to Album from:user0[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user3[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user8[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user0[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user2[0m
+[0m[[0minfo[0m] [0mUploading pictures on Profile from:user8[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user8[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user3[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user2[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user9[0m
+[0m[[0minfo[0m] [0mRetrieving picture for user :user0[0m

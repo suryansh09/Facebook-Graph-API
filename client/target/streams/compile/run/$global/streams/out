@@ -1,0 +1,84 @@
+[0m[[0minfo[0m] [0mRunning main.scala.Client [0m
+[0m[[0minfo[0m] [0mClient Created: user0[0m
+[0m[[0minfo[0m] [0mClient Created: user1[0m
+[0m[[0minfo[0m] [0mClient Created: user2[0m
+[0m[[0minfo[0m] [0mClient Created: user3[0m
+[0m[[0minfo[0m] [0mClient Created: user4[0m
+[0m[[0minfo[0m] [0mClient Created: user5[0m
+[0m[[0minfo[0m] [0mClient Created: user6[0m
+[0m[[0minfo[0m] [0mClient Created: user7[0m
+[0m[[0minfo[0m] [0mClient Created: user8[0m
+[0m[[0minfo[0m] [0mClient Created: user9[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user8[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user2[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user7[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user5[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user3[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user1[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user0[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user6[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user4[0m
+[0m[[0minfo[0m] [0mAuthentication Token Received from the Server for user:user9[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user8[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user1[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user2[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user3[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user6[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user9[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user4[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user0[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user7[0m
+[0m[[0minfo[0m] [0mPublic Keys Retrieved by user:user5[0m
+[0m[[0minfo[0m] [0muser1 Friend List: List(user8, user9)[0m
+[0m[[0minfo[0m] [0muser8 Friend List: List(user0, user4)[0m
+[0m[[0minfo[0m] [0muser9 Friend List: List(user2, user3)[0m
+[0m[[0minfo[0m] [0muser7 Friend List: List(user3, user1)[0m
+[0m[[0minfo[0m] [0muser4 Friend List: List(user3, user6)[0m
+[0m[[0minfo[0m] [0muser6 Friend List: List(user4, user5)[0m
+[0m[[0minfo[0m] [0muser3 Friend List: List(user0, user4)[0m
+[0m[[0minfo[0m] [0muser0 Friend List: List(user4, user1)[0m
+[0m[[0minfo[0m] [0muser5 Friend List: List(user4, user7)[0m
+[0m[[0minfo[0m] [0muser2 Friend List: List(user7, user4)[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user1[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user7[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user2[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user9[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user0[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user3[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user8[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user4[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user6[0m
+[0m[[0minfo[0m] [0mNew Page Created by user:user5[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user5[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user9[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user1[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user0[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user7[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user2[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user8[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user6[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user3[0m
+[0m[[0minfo[0m] [0mNew Album Created by user:user4[0m
+[0m[[0minfo[0m] [0mSuccess: Page Post from:user0 to Page:page0 shared with: user6:user9[0m
+[0m[[0minfo[0m] [0mAccess_Denied for user: user4 for post: post0[0m
+[0m[[0minfo[0m] [0mAccess_Denied for user: user5 for post: post0[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post0 for user:user0 Post=This_is_a_Post_Message_on_the_Page_of_Page_0_by_User0_Shared_With_User6_User9[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post0 for user:user9 Post=This_is_a_Post_Message_on_the_Page_of_Page_0_by_User0_Shared_With_User6_User9[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post0 for user:user6 Post=This_is_a_Post_Message_on_the_Page_of_Page_0_by_User0_Shared_With_User6_User9[0m
+[0m[[0minfo[0m] [0mSuccess: Profile Post from:user0 to:user1 shared with: user2:user3[0m
+[0m[[0minfo[0m] [0mAccess_Denied for user: user9 for post: post1[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post1 for user:user1 Post=This_is_a_Post_Message_on_Profile_of_User1_by_User0_Shared_with_User2_User3[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post1 for user:user3 Post=This_is_a_Post_Message_on_Profile_of_User1_by_User0_Shared_with_User2_User3[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post1 for user:user0 Post=This_is_a_Post_Message_on_Profile_of_User1_by_User0_Shared_with_User2_User3[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving post:post1 for user:user2 Post=This_is_a_Post_Message_on_Profile_of_User1_by_User0_Shared_with_User2_User3[0m
+[0m[[0minfo[0m] [0mSuccess: Picture Upload from:user0 to album:album0 shared with: user2:user3[0m
+[0m[[0minfo[0m] [0mAccess_Denied for user: user8 for picture: picture0[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture0 for user:user3 Picture=www.abc.com/album0/image.png[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture0 for user:user0 Picture=www.abc.com/album0/image.png[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture0 for user:user2 Picture=www.abc.com/album0/image.png[0m
+[0m[[0minfo[0m] [0mSuccess: Picture Upload from:user8 to Profile of:user2 shared with: user9:user3[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture1 for user:user8 Picture=www.abc.com/profile2/image.png[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture1 for user:user3 Picture=www.abc.com/profile2/image.png[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture1 for user:user2 Picture=www.abc.com/profile2/image.png[0m
+[0m[[0minfo[0m] [0mAccess_Denied for user: user0 for picture: picture1[0m
+[0m[[0minfo[0m] [0mSuccess for retirieving picture:picture1 for user:user9 Picture=www.abc.com/profile2/image.png[0m
